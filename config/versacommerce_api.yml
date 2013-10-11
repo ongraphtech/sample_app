@@ -1,0 +1,11 @@
+development:
+  api_key: 0449955d73553694ba94dd8f7001fb329cbcf752
+  secret: 5ceb1524c9972134c54a9e6bcf48ee94c0308cf5
+
+test:
+  api_key: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+  secret: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+production:
+  api_key: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+  secret: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
